@@ -1,7 +1,5 @@
 ## Hello everyone, I'm Yuriy 👋
 
-description wip....
-
 ## :construction: Currently working on :
 
 - AWS Certified Developer - Associate Certification
