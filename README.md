@@ -5,6 +5,7 @@
 - AWS Certified Developer - Associate Certification
 - Shoppig Cart
 - Budgeting App
+- Issue Tracker
 
 ## :apple: Currently learning :
 
