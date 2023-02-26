@@ -3,7 +3,6 @@
 ## :construction: Currently working on :
 
 - AWS Certified Developer - Associate Certification
-- Shoppig Cart
 - Budgeting App
 - Issue Tracker
 
